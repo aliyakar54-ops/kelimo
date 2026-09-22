@@ -1,0 +1,7 @@
+{
+  "appId":"com.kelimo.game",
+  "appName":"Kelimo",
+  "webDir":"web/public",
+  "bundledWebRuntime":false,
+  "server":{"androidScheme":"https"}
+}
